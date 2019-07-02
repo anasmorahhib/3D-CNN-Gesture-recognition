@@ -1,0 +1,2 @@
+After training your model using "main-beginners-syntax.py" or "main-experts-syntax.py", the weights will be created here, and you can use them in "test-app.py".
+you can use the weight "path_to_my_weights2" to test the application but it is not well trained, it is the result of a single epoch.
